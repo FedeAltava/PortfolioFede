@@ -1,0 +1,2 @@
+## Configuración de Apache: Perspectiva de Clase
+En clase, hemos aprendido a configurar Apache siguiendo los pasos 3, 4 y 5 de un tutorial sobre su instalación en **Ubuntu**. En el paso 3, hemos creado nuestra propia página web simple y personalizada. Después de completar la configuración básica de Apache..
