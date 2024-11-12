@@ -17,3 +17,7 @@ PC cliente
 
 PC servidor:
 - Comprueba que se ha abierto el browser en el lugar que toca
+
+![image](https://github.com/user-attachments/assets/8d5b7bbe-38e8-4bb7-bf49-87590839f654)  
+![image](https://github.com/user-attachments/assets/04430f42-01d9-4f15-bc05-a4fc2b335589)
+
