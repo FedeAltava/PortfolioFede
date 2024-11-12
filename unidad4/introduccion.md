@@ -9,3 +9,6 @@ SSH también permite configurar autenticación mediante claves en lugar de contr
 **Lo que más me ha gustado** de aprender sobre SSH es la posibilidad de controlar un servidor remoto como si estuviera justo frente a mí. 
 
 **Lo que más me ha interesado** ha sido la autenticación con claves SSH. Me parece una opción mucho más segura que las contraseñas tradicionales, y es genial que pueda configurarlo para que solo equipos específicos puedan conectarse al servidor. 
+
+
+![image](https://github.com/user-attachments/assets/ec0425c9-583d-452b-adca-d471d5fd5b6b)
