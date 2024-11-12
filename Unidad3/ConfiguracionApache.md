@@ -1,4 +1,4 @@
- Configuración de Apache.
+ #Configuración de Apache.
 
 Hoy vamos a dejar la configuración predeterminada del host virtual de **Apache** apuntando a www.example.com y configuraremos nuestro propio sitio en gci.example.com.
 
