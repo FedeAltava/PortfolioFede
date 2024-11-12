@@ -1,4 +1,4 @@
-## Introducción
+# Introducción
 
 En el primer apratado, hemos aprendido a utilizar dos herramientas fundamentales para el desarrollo y la documentación de proyectos: **Markdown** y **GitHub**. Markdown es un lenguaje de marcado ligero que nos permite dar formato a textos de forma simple y rápida, sin la complejidad de HTML. Es ideal para crear documentación técnica, archivos README, y cualquier tipo de contenido escrito.
 
