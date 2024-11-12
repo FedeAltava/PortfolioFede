@@ -1,3 +1,6 @@
+En este Proyecto nos hemso conectado a un ordenador y hemso creado un virtual host desde otro ordenador usando ssh.
+
+
 PC servidor:
 - Crea un usuario nuevo.
 - Activa servidor SSH
