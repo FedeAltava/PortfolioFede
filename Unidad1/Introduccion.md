@@ -18,3 +18,5 @@ $ gedit prueba.c
 **Lo que me podría interesar** saber más sobre este tema es cómo integrar GitHub con otras herramientas de desarrollo, como editores de código (VS Code, por ejemplo) o herramientas de CI/CD para automatizar la construcción y pruebas de proyectos. Además, podrías explorar características avanzadas de Markdown, como tablas, listas anidadas y la integración de diagramas o fórmulas matemáticas.
 
 **Lo que más me ha gustado** del tema es la facilidad con la que Markdown permite formatear documentos y cómo GitHub simplifica el trabajo en equipo, permitiéndote organizar y versionar el código, además de la flexibilidad para documentar todo en un solo lugar y compartirlo de forma profesional.
+
+![image](https://github.com/user-attachments/assets/1e0d8d47-5ae7-439b-9acc-d238553e7a40)
