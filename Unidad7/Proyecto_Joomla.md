@@ -1,7 +1,7 @@
 # Página principal.
 ![Imagen 1](./media/home.PNG)
 # Biografía.
-![Imagen 2](./media/biografía.PNG)
+![Imagen 2](./media/biografia.PNG)
 # Configuración.
 ![Imagen 3](./media/Configuracion.PNG)
 # contacto.
